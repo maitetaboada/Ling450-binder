@@ -1,8 +1,0 @@
-name: 450-binder
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - numpy
-  - pip
-  - spacy
