@@ -1,0 +1,8 @@
+name: 450-binder
+channels:
+  - default
+dependencies:
+  - python
+  - numpy
+  - pip
+  - spacy
