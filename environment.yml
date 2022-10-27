@@ -9,6 +9,8 @@ dependencies:
   - python=3.8.13
   - spacy=3.3.1
   - spacy-model-en_core_web_sm
+  - spacy-model-en_core_web_trf
+  - coreferee
   - pip
   - pip:
       - pymongo==4.1.1
